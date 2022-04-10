@@ -1,7 +1,7 @@
 const context = document.querySelector("canvas").getContext("2d");
 
-context.canvas.height = 400;
-context.canvas.width = 1220;
+context.canvas.height = 1920;
+context.canvas.width = 1080;
 
 // Start the frame count at 1
 let frameCount = 1;
